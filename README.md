@@ -1,4 +1,4 @@
-# Multiple_Disease_ML
+# Multiple Disease Prediction Using Machine Learning Algorithms
 Predictive Modeling of Multiple Diseases
 
 # Overview
